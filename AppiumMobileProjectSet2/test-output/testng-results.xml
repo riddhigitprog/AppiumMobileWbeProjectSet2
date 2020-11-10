@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="132903" started-at="2020-11-10T20:19:29 IST" finished-at="2020-11-10T20:21:42 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="132903" started-at="2020-11-10T20:19:29 IST" finished-at="2020-11-10T20:21:42 IST">
+      <class name="MobileSet2Project.MobileDataAutomation">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:MobileSet2Project.MobileDataAutomation@36b4cef0]" name="beforeClass" is-config="true" duration-ms="32105" started-at="2020-11-10T20:19:29 IST" finished-at="2020-11-10T20:20:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String, java.lang.String)[pri:0, instance:MobileSet2Project.MobileDataAutomation@36b4cef0]" name="AddVariants" duration-ms="19852" started-at="2020-11-10T20:20:02 IST" data-provider="ReadVariant" finished-at="2020-11-10T20:20:22 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://demowebshop.tricentis.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Created on]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String, java.lang.String)[pri:0, instance:MobileSet2Project.MobileDataAutomation@36b4cef0]" name="AddVariants" duration-ms="15895" started-at="2020-11-10T20:20:22 IST" data-provider="ReadVariant" finished-at="2020-11-10T20:20:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://demowebshop.tricentis.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Price: High to Low]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String, java.lang.String)[pri:0, instance:MobileSet2Project.MobileDataAutomation@36b4cef0]" name="AddVariants" duration-ms="14968" started-at="2020-11-10T20:20:38 IST" data-provider="ReadVariant" finished-at="2020-11-10T20:20:53 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://demowebshop.tricentis.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Price: Low to High]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String, java.lang.String)[pri:0, instance:MobileSet2Project.MobileDataAutomation@36b4cef0]" name="AddVariants" duration-ms="16155" started-at="2020-11-10T20:20:53 IST" data-provider="ReadVariant" finished-at="2020-11-10T20:21:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://demowebshop.tricentis.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Name: Z to A]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String, java.lang.String)[pri:0, instance:MobileSet2Project.MobileDataAutomation@36b4cef0]" name="AddVariants" duration-ms="15116" started-at="2020-11-10T20:21:09 IST" data-provider="ReadVariant" finished-at="2020-11-10T20:21:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://demowebshop.tricentis.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Name: A to Z]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="AddVariants(java.lang.String, java.lang.String)[pri:0, instance:MobileSet2Project.MobileDataAutomation@36b4cef0]" name="AddVariants" duration-ms="13729" started-at="2020-11-10T20:21:24 IST" data-provider="ReadVariant" finished-at="2020-11-10T20:21:38 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://demowebshop.tricentis.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Position]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddVariants -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:MobileSet2Project.MobileDataAutomation@36b4cef0]" name="afterClass" is-config="true" duration-ms="4263" started-at="2020-11-10T20:21:38 IST" finished-at="2020-11-10T20:21:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- MobileSet2Project.MobileDataAutomation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
